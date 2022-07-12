@@ -6,61 +6,20 @@
 </div>
 
 <div align="center">
- <img  
-   alt="Wiviane Felix" 
-   width="40"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-   
- <img 
-   alt="Wiviane Felix" 
-   width="40" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-          
- <img 
-   alt="Wiviane Felix" 
-   width="40" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-   
-   <img 
-     alt="Wiviane Felix" 
-     width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
-       
-   <img  
-     alt="Wiviane Felix" 
-     width="40" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+ <img alt="Wiviane Felix" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+ <img alt="Wiviane Felix" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+ <img alt="Wiviane Felix" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+ <img alt="Wiviane Felix" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
+ <img alt="Wiviane Felix" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 </div>
 
 ##
 
 <div align="center"> 
-  
-  <a 
-    href="https://www.instagram.com/wivianefelix" 
-    target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       
-    target="_blank">
-  </a>
-  
-  <a 
-    href="wivianefelix@gmail.com" 
-    target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"       
-    target="_blank">
-  </a>
-  
-  <a 
-  href="https://www.facebook.com/wivianefelix"
-  target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"       
-  target="_blank">
-  </a>
-  
-  <a 
-  href="https://www.linkedin.com/wivianefelix"
-  target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"       
-  target="_blank">
-  </a>
-  </div>
+  <a href="https://www.instagram.com/wivianefelix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="wivianefelix@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"       
+  target="_blank"></a>
+  <a href="https://www.facebook.com/wivianefelix" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/wivianefelix" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ 
+ </div>
